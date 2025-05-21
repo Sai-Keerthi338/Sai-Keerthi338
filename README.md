@@ -1,16 +1,47 @@
-## Hi there 👋
+##👋 Hi, I'm Sai Keerthi!
 
-<!--
-**Sai-Keerthi338/Sai-Keerthi338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Mechanical Engineering student with a strong interest in Artificial Intelligence, Machine Learning, and Generative AI. I enjoy building hands-on projects that solve real-world problems using data and automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🧠 Certifications
+
+- ✅ **Google Cloud Skill Boost – Generative AI (2023)**
+  - Introduction to Generative AI  
+  - Prompt Design in Vertex AI  
+  - Develop GenAI Apps with Gemini and Streamlit  
+
+- 📘 **Udemy Certification on Machine Learning**  
+- 🐍 **MyCaptain Certification on Python Programming**  
+- 📊 **MyCaptain Certification on Data Analytics with Python**
+
+---
+
+### 🚀 Projects
+
+- 🎯 [Student Performance Prediction System](https://github.com/Sai-Keerthi338/Machine-Learning-project-with-python)  
+  Predicts final exam scores based on attendance and assignment scores using Linear Regression. Includes dataset handling, model training, and CSV export.
+
+---
+
+### 🔧 Skills & Tools
+
+**Languages & Libraries:**  
+Python • Pandas • NumPy • scikit-learn • Jupyter Notebook
+
+**Others:**  
+Git • GitHub • CSV I/O • Streamlit (Beginner) • Prompt Design
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/) *(Replace with your actual link)*  
+- 🌐 [GitHub Portfolio](https://github.com/Sai-Keerthi338)
+
+---
+
+_“Building with curiosity. Learning by doing.”_
+
+
 -->
