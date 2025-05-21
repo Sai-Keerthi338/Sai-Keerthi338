@@ -6,10 +6,12 @@
 
 ### 🧠 Certifications
 
-- ✅ **Google Cloud Skill Boost – Generative AI (2023)**
-  - Introduction to Generative AI  
-  - Prompt Design in Vertex AI  
-  - Develop GenAI Apps with Gemini and Streamlit  
+- ### 🏅 Google Cloud Skill Boost Badges
+
+- [Introduction to Generative AI](https://www.cloudskillsboost.google/public_profiles/301a05fb-941f-43ab-9fb3-bfd07c8f0872/badges/9020660)
+- [Prompt Design in Vertex AI](https://www.cloudskillsboost.google/public_profiles/301a05fb-941f-43ab-9fb3-bfd07c8f0872/badges/9046706)
+- [Develop GenAI Apps with Gemini & Streamlit](https://www.cloudskillsboost.google/public_profiles/301a05fb-941f-43ab-9fb3-bfd07c8f0872/badges/9047297)
+
 
 - 📘 **Udemy Certification on Machine Learning**  
 - 🐍 **MyCaptain Certification on Python Programming**  
