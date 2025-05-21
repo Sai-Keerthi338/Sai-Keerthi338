@@ -36,7 +36,7 @@ Git • GitHub • CSV I/O • Streamlit (Beginner) • Prompt Design
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/) *(Replace with your actual link)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sai-keerthi-jada/) *(Replace with your actual link)*  
 - 🌐 [GitHub Portfolio](https://github.com/Sai-Keerthi338)
 
 ---
